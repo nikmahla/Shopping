@@ -1,0 +1,16 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+body{
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+@keyframes move {
+    0% { transform: translateY(0) translateX(0); }
+    100% { transform: translateY(-10px) translateX(-15px); }
+}
