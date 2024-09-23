@@ -6,8 +6,6 @@
 
 
 
-![hhh](https://github.com/user-attachments/assets/f0d44a84-596d-4338-85cf-1d5f53b5dcde)
-
 
 
 ![h03](https://github.com/user-attachments/assets/c784c570-2886-485a-82f4-8cada5ca2a86)
