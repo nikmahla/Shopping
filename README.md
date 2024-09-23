@@ -19,7 +19,7 @@ Developed by Fatemeh Nikookar
 
 Created - 2024-9
 
-Technologies Used - Html , Css ,React ,Nextjs ,Zustand ,Animation , Api , MUI
+Technologies Used - Html , Css ,React ,Nextjs ,Zustand ,Animation , Api , MUI ,Localstorage
 
 Role - Frontend
 
