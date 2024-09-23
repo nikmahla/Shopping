@@ -1,3 +1,20 @@
+# Portfolio
+
+ [Demo Link](https://shopping-rqlg.vercel.app/)
+
+Shopping website full responsive 🔥
+
+Developed by Fatemeh Nikookar
+
+Created - 2024-9
+
+Technologies Used - Html , Css ,React ,Nextjs ,Zustand ,Animation , Api , MUI
+
+Role - Frontend
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
